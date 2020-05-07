@@ -29,6 +29,7 @@ h2 {
 
 .Game-reroll {
   font-size: 2em;
+  font-family: roboto;
   color: white;
   font-weight: 100;
   transition: 0.5s;
